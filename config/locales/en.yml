@@ -1,0 +1,24 @@
+en:
+  repositories:
+    not_found:
+      label: '404: Page Not Found'
+      message: The repository you're looking for could not be located.  Sorry about that!
+
+  submit_form:
+    title: Report
+    label:
+      name: Name
+      email: Email
+      email_public: Public Email (send in the issue body)
+      issue_title: Issue Title
+      details: Details
+      submit: Submit
+    captcha_message: Please complete the following CAPTCHA to prove that you're a human.
+
+  simple_captcha:
+    placeholder: Enter image text
+    label: 'Enter the code in the box:'
+    refresh_button_text: Refresh
+    message:
+      default: Secret Code did not match with the Image
+      user: The secret Image and code were different
